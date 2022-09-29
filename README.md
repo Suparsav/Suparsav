@@ -3,7 +3,7 @@
 
 👋 Hi, I’m @Suparsav
 
-⚡ I’m Certified Data Analyst | Machine Learning | Python | SQL | Excel
+⚡ I’m Certified Data Analyst | Machine Learning | Python | SQL | Excel | Tableu
 
 👓 I’m currently learning ... Machine Learning
 
