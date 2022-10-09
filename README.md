@@ -5,7 +5,7 @@
 
 ⚡ I’m Certified Data Analyst | Machine Learning | Python | SQL | Excel | Tableu
 
-👓 I’m currently learning ... Machine Learning
+👓 I’m Data Science enthusiast
 
 ✍ I’m looking to collaborate on ...Data Analysis or Machine Learning projects
 
